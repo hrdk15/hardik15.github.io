@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.lmpixels.com	TRUE	/	FALSE	1999999999	__cfduid	d4cdf7a1f653368a9468b8831790d1bae1594196139
+lmpixels.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
